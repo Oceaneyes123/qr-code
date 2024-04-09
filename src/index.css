@@ -1,0 +1,54 @@
+/* body{
+  background-color: #5BBCFF !important;
+} */
+
+#root{
+  height: 100vh;
+  background-color: #303030;
+}
+
+.not-active{
+  padding: 15px 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-active{
+  background-color: #5BBCFF;
+  padding: 15px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.main-container{
+  width: max(80%, 300px);
+}
+
+.form-container{
+  width: max(80%, 300px);
+}
+
+.upload-box{
+  width: max(80%, 300px);
+  border: 1px solid #7a7a7a;
+  padding: 50px 0;
+  background-color: #7EA1FF;
+  border-radius: 20px;
+}
+
+.data-wrap{
+  white-space: pre-wrap;
+  padding: 4px;
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.background-lpurple{
+  background-color: #7EA1FF !important;
+}
+
+.background-yellow{
+  background-color: #FFFAB7 !important;
+  color: black !important;
+}
